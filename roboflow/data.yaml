@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 0
+names: ['Animal']
+
+roboflow:
+  workspace: animal-detection-the-sandbox
+  project: asnimal-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/animal-detection-the-sandbox/asnimal-detection/dataset/1

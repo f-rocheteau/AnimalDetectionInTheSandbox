@@ -1,0 +1,2 @@
+train: \Users\Jackdon\yolov5\custom_dataset\train
+val: \Users\Jackdon\yolov5\custom_dataset\val
